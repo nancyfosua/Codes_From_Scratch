@@ -2,11 +2,9 @@
 Config files for my GitHub profile.
 
 
-# title 1
+# The task here is build a neural network from scratch.
 
 
-### title 2
 
-
-1. step 1
-2. step 2
+# Object tracking system
+The main task is to build a object tracker algorithm. A pretrained model; Mask R-CNN which has been trained on COCO dataset is used to build an object tracker algorithm. The trackeing is achieved by using color-coding and the category name.
