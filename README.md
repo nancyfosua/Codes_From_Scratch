@@ -2,7 +2,8 @@
 Config files for my GitHub profile.
 
 
-# The task here is build a neural network from scratch.
+# Building Neural Network form scratch
+The task here is build a neural network from scratch.
 
 
 
