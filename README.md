@@ -2,10 +2,10 @@
 Config files for my GitHub profile.
 
 
-#title 1
+# title 1
 
 
-###title 2
+### title 2
 
 
 1. step 1
